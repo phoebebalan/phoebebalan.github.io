@@ -1,7 +1,7 @@
 ---
-Title: "Bookshelf"
-Layout: Page
-Permalink: /bookshelf/
+title: Bookshelf
+icon: fas fa-book
+order: 4
 ---
 Will be listing books I'm currently reading and have read here with recommendations. Stayed tuned!
 ### 2026
