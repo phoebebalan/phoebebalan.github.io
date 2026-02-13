@@ -1,7 +1,7 @@
 ---
 Title: "Bookshelf"
 Layout: Page
-Permalink: /books/
+Permalink: /bookshelf/
 ---
 Will be listing books I'm currently reading and have read here with recommendations. Stayed tuned!
 ### 2026
